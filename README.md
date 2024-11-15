@@ -1,3 +1,18 @@
 # Assignment 2: Classify
 
-TODO: Add your own descriptions here.
+abs:
+
+argmax:
+
+classify:
+
+dot:
+
+matmul:
+
+read/write matrix:
+
+relu:
+
+
+
