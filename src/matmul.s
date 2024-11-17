@@ -140,12 +140,3 @@ outer_loop_end:
 error:
     li a0, 38
     j exit
-    
-    
-    
-    mv t5, a0
-    mv a0, a1
-    jal print_int
-    mv a0, s0
-    jal print_int
-    mv a0, t5
