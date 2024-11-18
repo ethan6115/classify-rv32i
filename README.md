@@ -243,5 +243,6 @@ test_write_fail_fwrite (__main__.TestWriteMatrix.test_write_fail_fwrite) ... ok
 ----------------------------------------------------------------------
 Ran 46 tests in 33.189s
 
+OK
 
 ```
